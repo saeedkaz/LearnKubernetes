@@ -1,11 +1,12 @@
 # Table of contents
 
-## Controllers and Operators
+## Chapter 1
 
-* [Edge- Versus Level-Driven Triggers](README.md)
-* [Changing Cluster Objects or the External World](controllers-and-operators/changing-cluster-objects-or-the-external-world.md)
-* [Optimistic Concurrency](controllers-and-operators/optimistic-concurrency.md)
-* [Operators](controllers-and-operators/operators.md)
+* [Controllers and Operators](README.md)
+  * [Edge- Versus Level-Driven Triggers](chapter-1/controllers-and-operators/edge-versus-level-driven-triggers.md)
+  * [Changing Cluster Objects or the External World](chapter-1/controllers-and-operators/changing-cluster-objects-or-the-external-world.md)
+  * [Optimistic Concurrency](chapter-1/controllers-and-operators/optimistic-concurrency.md)
+  * [Operators](chapter-1/controllers-and-operators/operators.md)
 
 ## Chapter 2. Kubernetes API Basics
 
