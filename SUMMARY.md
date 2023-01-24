@@ -20,4 +20,4 @@
 
 ## Using the API from the Command Line
 
-* [Page 7](using-the-api-from-the-command-line/page-7.md)
+* [Kubernetes API Versioning](using-the-api-from-the-command-line/kubernetes-api-versioning.md)
