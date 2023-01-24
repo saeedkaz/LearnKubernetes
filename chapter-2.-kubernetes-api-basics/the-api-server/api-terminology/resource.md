@@ -17,5 +17,42 @@ Resources and kinds are often mixed up. Note the clear distinction:
 * Resources correspond to HTTP paths.
 * Kinds are the types of objects returned by and received by these endpoints, as well as persisted into `etcd`
 
-## GVR
+#### GVR
 
+Group Version resource
+
+An API group and a version
+
+A GVR uniquely defines an HTTP path, e.g.
+
+```
+/apis/batch/v1/namespaces/default/jobs
+```
+
+_cluster-wide resources do not have namespace,_ e.g.
+
+```
+/api/v1/nodes
+```
+
+#### GVK
+
+Group version Kind
+
+#### RESTMappers GVR\&GVK
+
+GVKs are served under HTTP paths identified by GVRs.
+
+#### API Space
+
+a hierarichal logical tree of api
+
+
+
+
+
+
+
+
+
+__

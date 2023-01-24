@@ -3,7 +3,7 @@
 ## Chapter 1
 
 * [Controllers and Operators](README.md)
-  * [Edge- Versus Level-Driven Triggers](<README (1).md>)
+  * [Edge- Versus Level-Driven Triggers](README.md)
   * [Changing Cluster Objects or the External World](chapter-1/controllers-and-operators/changing-cluster-objects-or-the-external-world.md)
   * [Optimistic Concurrency](chapter-1/controllers-and-operators/optimistic-concurrency.md)
   * [Operators](chapter-1/controllers-and-operators/operators.md)
