@@ -20,3 +20,7 @@
   * [Kubernetes API Versioning](using-the-api-from-the-command-line/kubernetes-api-versioning.md)
   * [Declarative State Management](chapter-2.-kubernetes-api-basics/the-api-server/declarative-state-management.md)
 * [Using the API from the Command Line](chapter-2.-kubernetes-api-basics/using-the-api-from-the-command-line.md)
+
+***
+
+* [How the API Server Processes Requests](how-the-api-server-processes-requests.md)
