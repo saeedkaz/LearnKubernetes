@@ -35,6 +35,8 @@ _cluster-wide resources do not have namespace,_ e.g.
 /api/v1/nodes
 ```
 
+<figure><img src="../../../.gitbook/assets/prku_0203.png" alt=""><figcaption></figcaption></figure>
+
 #### GVK
 
 Group version Kind
@@ -46,6 +48,8 @@ GVKs are served under HTTP paths identified by GVRs.
 #### API Space
 
 a hierarichal logical tree of api
+
+<figure><img src="../../../.gitbook/assets/prku_0204.png" alt=""><figcaption></figcaption></figure>
 
 
 
