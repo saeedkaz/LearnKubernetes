@@ -17,10 +17,6 @@
     * [API Group](chapter-2.-kubernetes-api-basics/the-api-server/api-terminology/api-group.md)
     * [Version](chapter-2.-kubernetes-api-basics/the-api-server/api-terminology/version.md)
     * [Resource](chapter-2.-kubernetes-api-basics/the-api-server/api-terminology/resource.md)
-  * [Kubernetes API Versioning](chapter-2.-kubernetes-api-basics/the-api-server/kubernetes-api-versioning.md)
-
-## Using the API from the Command Line
-
-***
-
-* [Declarative State Management](declarative-state-management.md)
+  * [Kubernetes API Versioning](using-the-api-from-the-command-line/kubernetes-api-versioning.md)
+  * [Declarative State Management](chapter-2.-kubernetes-api-basics/the-api-server/declarative-state-management.md)
+* [Using the API from the Command Line](chapter-2.-kubernetes-api-basics/using-the-api-from-the-command-line.md)
