@@ -24,3 +24,7 @@
 ***
 
 * [How the API Server Processes Requests](how-the-api-server-processes-requests.md)
+
+## Chapter 3. Basics of client-go
+
+* [The Repositories](chapter-3.-basics-of-client-go/the-repositories.md)
